@@ -1,3 +1,3 @@
 # nexus
 
-Deploy nexus in local to host PyPI
+PoC of nexus hosting pypi
